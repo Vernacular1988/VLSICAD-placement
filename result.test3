@@ -1,1 +1,50 @@
-19
+Anchor v0 at (0,0)
+Anchor v1 at (3,0)
+Anchor v2 at (3,3)
+Anchor v3 at (0,3)
+Edge e0 between vertices v0 and v4
+Edge e1 between vertices v1 and v5
+Edge e2 between vertices v2 and v6
+Edge e3 between vertices v3 and v7
+Edge e4 between vertices v4 and v5
+Edge e5 between vertices v5 and v6
+Edge e6 between vertices v6 and v7
+Edge e7 between vertices v7 and v4
+Move vertex v4 at 0.000000 0.000000 to 0.000000 0.000000
+Move vertex v5 at 0.000000 0.000000 to 1.000000 0.000000
+Move vertex v6 at 0.000000 0.000000 to 1.000000 1.000000
+Move vertex v7 at 0.000000 0.000000 to 0.000000 1.000000
+Max move is 1.000000
+Move vertex v4 at 0.000000 0.000000 to 0.333333 0.333333
+Move vertex v5 at 1.000000 0.000000 to 1.333333 0.333333
+Move vertex v6 at 1.000000 1.000000 to 1.333333 1.333333
+Move vertex v7 at 0.000000 1.000000 to 0.333333 1.333333
+Max move is 0.333333
+Move vertex v4 at 0.333333 0.333333 to 0.555556 0.555556
+Move vertex v5 at 1.333333 0.333333 to 1.555556 0.555556
+Move vertex v6 at 1.333333 1.333333 to 1.555556 1.555556
+Move vertex v7 at 0.333333 1.333333 to 0.555556 1.555556
+Max move is 0.222222
+Move vertex v4 at 0.555556 0.555556 to 0.703704 0.703704
+Move vertex v5 at 1.555556 0.555556 to 1.703704 0.703704
+Move vertex v6 at 1.555556 1.555556 to 1.703704 1.703704
+Move vertex v7 at 0.555556 1.555556 to 0.703704 1.703704
+Max move is 0.148148
+Move vertex v4 at 0.703704 0.703704 to 0.802469 0.802469
+Move vertex v5 at 1.703704 0.703704 to 1.802469 0.802469
+Move vertex v6 at 1.703704 1.703704 to 1.802469 1.802469
+Move vertex v7 at 0.703704 1.703704 to 0.802469 1.802469
+Max move is 0.098765
+FINAL vertex v4 at (0.802469,0.802469) --> (1,1)
+FINAL vertex v5 at (1.802469,0.802469) --> (2,1)
+FINAL vertex v6 at (1.802469,1.802469) --> (2,2)
+FINAL vertex v7 at (0.802469,1.802469) --> (1,2)
+  Edge e0 between v0 and v4: [-1 -1]
+  Edge e1 between v1 and v5: [1 -1]
+  Edge e2 between v2 and v6: [1 1]
+  Edge e3 between v3 and v7: [-1 1]
+  Edge e4 between v4 and v5: [-1 0]
+  Edge e5 between v5 and v6: [0 -1]
+  Edge e6 between v6 and v7: [1 0]
+  Edge e7 between v7 and v4: [0 1]
+Final Manhattan WL: 12
